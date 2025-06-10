@@ -12,7 +12,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 ## 📁 Dataset
 
 Dataset: Titanic passenger data  
-Available from: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
+Available from: [Kaggle Titanic Dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/yasserh/titanic-dataset?select=Titanic-Dataset.csv))
 
 ## 🛠️ Libraries Used
 
